@@ -66,11 +66,11 @@ inquirer
 ## Description 
 ${response.description}
 ## Table of Contents
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Contributors](#Contributors)
-* [License](#License)
-* [Contact](#Contact)
+* [Installation](##Installation)
+* [Usage](##Usage)
+* [Contributors](##Contributors)
+* [License](##License)
+* [Contact](##Contact)
 ## Installation
 ${response.instructions}
 ## Usage 
