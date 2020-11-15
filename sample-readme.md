@@ -1,6 +1,6 @@
-# ReadME Generator
+# ReadMe Generator
 
-![License Badge](https://img.shields.io/badge/license-MIT-green.svg)
+![License Badge](https://img.shields.io/badge/license-MIT-red.svg)
 
 ## Description
 
@@ -8,11 +8,11 @@ command line readme generator using node.js
 
 ## Table of Contents
 
-[Installation](##Installation)
-[Usage](##Usage)
-[Contributors](##Contributors)
-[License](##License)
-[Contact](##Contact)
+1. [Installation](##Installation)
+2. [Usage](##Usage)
+3. [Contributors](##Contributors)
+4. [License](##License)
+5. [Contact](##Contact)
 
 ## Installation
 
@@ -22,7 +22,7 @@ npm i
 
 gif here
 ##License MIT
-details here
+Mit license info here
 
 ## Contributors
 
@@ -30,7 +30,7 @@ Jasmine Teters
 
 ## Tests
 
-no tests
+none
 
 ## Contact
 

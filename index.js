@@ -65,17 +65,19 @@ inquirer
 ![License Badge](https://img.shields.io/badge/license-${response.licenseName}-${response.licenseColor}.svg)
 ## Description 
 ${response.description}
+
 ## Table of Contents
-* [Installation](##Installation)
-* [Usage](##Usage)
-* [Contributors](##Contributors)
-* [License](##License)
-* [Contact](##Contact)
+1. [Installation](##Installation)
+2. [Usage](##Usage)
+3. [Contributors](##Contributors)
+4. [License](##License)
+5. [Contact](##Contact)
+
 ## Installation
 ${response.instructions}
 ## Usage 
 ${response.usage}
-##License ${response.licenseName}
+##License  ${response.licenseName}
 ${response.licenseText}
 ## Contributors
 ${response.contributions}
